@@ -1,22 +1,22 @@
-/* Atelier Cave by Bram de Haan (http://atelierbramdehaan.nl) */
+/* Gigavolt by Aidan Swope (http://github.com/Whillikers) */
 
 :root {
-  --base00: #19171c;
-  --base01: #26232a;
-  --base02: #585260;
-  --base03: #655f6d;
-  --base04: #7e7887;
-  --base05: #8b8792;
-  --base06: #e2dfe7;
-  --base07: #efecf4;
-  --base08: #be4678;
-  --base09: #aa573c;
-  --base0A: #a06e3b;
-  --base0B: #2a9292;
-  --base0C: #398bc6;
-  --base0D: #576ddb;
-  --base0E: #955ae7;
-  --base0F: #bf40bf;
+  --base00: #202126;
+  --base01: #2d303d;
+  --base02: #5a576e;
+  --base03: #a1d2e6;
+  --base04: #cad3ff;
+  --base05: #e9e7e1;
+  --base06: #eff0f9;
+  --base07: #f2fbff;
+  --base08: #ff661a;
+  --base09: #19f988;
+  --base0A: #ffdc2d;
+  --base0B: #f2e6a9;
+  --base0C: #fb6acb;
+  --base0D: #40bfff;
+  --base0E: #ae94f9;
+  --base0F: #6187ff;
   --button-blue: var(--base0C);
   --button-gray-1: var(--base05);
   --button-gray-2: var(--base06);
