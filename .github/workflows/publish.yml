@@ -11,7 +11,7 @@ jobs:
       - uses: logseq/publish-spa@v0.3.1
         with:
           theme-mode: dark
-          accent-color: mint
+          accent-color: indigo
       - name: Add a nojekyll file # to make sure asset paths are correctly identified
         run: touch www/.nojekyll
       - name: Deploy 🚀
