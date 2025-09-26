@@ -1,6 +1,4 @@
-type:: [[SFRS(I)]] 
-description:: SFRS(I) 16 Leases
-
+### **Standard**: [[SFRS(I)/16 Leases]]
 - ### Formulae #Cheatsheet/PFF
 	- PV = FV * PVIF (i = eff int rate, n = period)
 	- Lease liability = Coupon * PVIFA (i = eff int, n = period)

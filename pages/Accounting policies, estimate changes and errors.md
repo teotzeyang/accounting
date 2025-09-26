@@ -1,6 +1,4 @@
-type:: [[SFRS(I)]] 
-description:: SFRS(I) 1-8 Accounting Policies, Changes in Accounting Estimates and Errors
-
+### **Standard**: [[SFRS(I)/1-8 Accounting Policies, Changes in Accounting Estimates and Errors]]
 - ### Case studies
 	- Inappropriate recognition of revenue
 		- Restate amounts for prior period **retrospectively**

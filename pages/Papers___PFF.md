@@ -40,8 +40,8 @@
 			- Statement of [[Changes in equity]]
 				- Template in cheatsheet
 	- [[PFF J18]]
-	  collapsed:: true
 		- Q1
+		  collapsed:: true
 			- Statement of [[Cash flows]]
 				- Indirect template in cheatsheet
 				- Direct method components
@@ -75,7 +75,6 @@
 			- [[PPE]] and [[Investment property]] journal entry
 				- Subtract accumulated depreciation when reclassifying
 		- Q4
-		  collapsed:: true
 			- [[Contract]] revenue recognition and journal entry
 				- The first step is to ascertain that there is a legal contract
 				- The next step is to identify the performance obligations in the contract
@@ -158,7 +157,7 @@
 				- Interest revenue for prepayment plan
 					- Dr Bank, Cr Sales revenue, Cr Interest revenue
 				- Effective interest rate
-					- (FV/PV)^(1/n) - 1
+					- (FV/PV)^(1/n) - 1 #Formula
 			- [[Impairment]] indicators
 				- Factors for impairment (Electronics)
 					- Physical defects -> Physical obsolescence

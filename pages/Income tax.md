@@ -1,6 +1,4 @@
-type:: [[SFRS(I)]] 
-description:: SFRS(I) 1-12 Income Taxes
-
+### **Standard**: [[SFRS(I)/1-12 Income Taxes]]
 - ### Deferred tax
 	- If capital allowance -> DTL, if deductible -> DTA #Cheatsheet/PFF
 	- Taxable temporary difference (DTL)

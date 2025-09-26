@@ -1,6 +1,4 @@
-type:: [[SFRS(I)]] 
-description:: SFRS(I) 9 Financial Instruments
-
+### **Standard**: [[SFRS(I)/9 Financial Instruments]]
 - ### Formulae #Cheatsheet/PFF
 	- Interest income/expense = Interest rate * Purchase price
 	- Coupon payment/interest payable = Coupon rate * Face value

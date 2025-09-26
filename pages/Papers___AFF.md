@@ -171,7 +171,7 @@
 		- [[Contract]]
 		  collapsed:: true
 			- Completion % = Costs incurred to date / Estimated total cost
-			- Revenue to date = Contract price * Completion %
+			- Revenue to date = Contract price * Completion % #Formula
 			- Performance obligation satisfied at a single point in time
 				- When control is transferred to the buyer at a single event (usually through delivery)
 				- Control is the ability to direct the use of the asset to obtain the benefits of that asset, especially if the entity has:

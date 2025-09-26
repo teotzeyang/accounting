@@ -1,6 +1,4 @@
-type:: [[SFRS(I)]] 
-description:: SFRS(I) 1-38 Intangible Assets
-
+### **Standard**: [[SFRS(I)/1-38 Intangible Assets]]
 - ### When to capitalize intangible assets? #Cheatsheet/PFF
 	- Probable future economic benefit
 	- Intention to complete and use/sell asset
