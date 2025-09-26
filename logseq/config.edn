@@ -420,4 +420,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
- :default-home {:page "Acct 101"}}
+ :default-home {:page "Acct 101"}
+ :publishing/all-pages-public? true}
