@@ -86,41 +86,41 @@
 		  collapsed:: true
 			- Sales price variance: Actual/Budgeted sales price
 			- Sales volume variance: Actual/Budgeted units * Contribution per unit
-id:: b290438c-d7b1-4fb3-8864-0e4cf1fd455a
+			  id:: b290438c-d7b1-4fb3-8864-0e4cf1fd455a
 			- Materials price variance: Actual/Budgeted materials price
-id:: abc4499e-8348-461c-8c50-38ea9923bdb4
+			  id:: abc4499e-8348-461c-8c50-38ea9923bdb4
 			- Materials usage variance: Actual/Budgeted materials cost / Budgeted material price per unit
-id:: 1d6ee7b6-be74-417d-b163-a41b0ca67991
+			  id:: 1d6ee7b6-be74-417d-b163-a41b0ca67991
 			- Labour rate variance: Actual/Budgeted labour cost * Actual hours worked
-id:: 691ac744-fb0c-4f41-9f35-b00211144abf
+			  id:: 691ac744-fb0c-4f41-9f35-b00211144abf
 			- Labour efficiency variance: Actual/Budgeted hours worked * Budgeted labour cost
-id:: 19a5bcac-55f2-4c5c-9ed5-9a5171c6ceef
+			  id:: 19a5bcac-55f2-4c5c-9ed5-9a5171c6ceef
 		- [[Throughput accounting]]
 		  collapsed:: true
 			- Assumption that the only short term variable costs to be flexed are revenue and materials
-id:: 85e336dd-59c9-472f-be16-fc329495f0b7
+			  id:: 85e336dd-59c9-472f-be16-fc329495f0b7
 	- [[ADF D18]] Q3
 	  collapsed:: true
 		- [[Relevant cost]] analysis
-id:: abb8c83f-0391-4bd7-be86-a6139ed7c2ce
+		  id:: abb8c83f-0391-4bd7-be86-a6139ed7c2ce
 			- Included (incremental) costs
-id:: 4e1c7a0c-8a9d-47f8-8f16-700b4c4eda3f
+			  id:: 4e1c7a0c-8a9d-47f8-8f16-700b4c4eda3f
 				- Materials that need to be acquired
-id:: 2084c823-5025-41b0-a191-f127fd493366
+				  id:: 2084c823-5025-41b0-a191-f127fd493366
 				- Labour costs that cannot be absorbed
-id:: 32c22f83-69c3-4cb1-9e74-4d2ad91f42f0
+				  id:: 32c22f83-69c3-4cb1-9e74-4d2ad91f42f0
 				- Less disposal costs
-id:: c3691376-4c67-4f5a-ba97-e0ff29675a68
+				  id:: c3691376-4c67-4f5a-ba97-e0ff29675a68
 			- Excluded costs
-id:: a2f41014-6993-4fd8-b086-e727247f19dd
+			  id:: a2f41014-6993-4fd8-b086-e727247f19dd
 				- Salaries (Sunk costs)
-id:: 0cf8b37f-5ea7-491b-b93c-ad9dee9d0527
+				  id:: 0cf8b37f-5ea7-491b-b93c-ad9dee9d0527
 				- Head office costs
-id:: d07d801d-ef3d-4631-b5cf-c67a24680eab
+				  id:: d07d801d-ef3d-4631-b5cf-c67a24680eab
 				- Mark-up costs
-id:: 340bae2d-e73f-4b86-a504-add42bc4b872
+				  id:: 340bae2d-e73f-4b86-a504-add42bc4b872
 			- Drawbacks
-id:: 9f32572d-8c00-481e-bfde-a735b0cedf7f
+			  id:: 9f32572d-8c00-481e-bfde-a735b0cedf7f
 				- No contribution to fixed costs -> Covered by revenues overall -> Incur losses
 				- Customers expect lower costs, Unhappiness from prior customers -> Reputation damaged
 				- Workers cut costs to ensure that contract does not lose money
@@ -297,17 +297,17 @@ id:: 9f32572d-8c00-481e-bfde-a735b0cedf7f
 				- Planning: Before operations, managers need to plan the objective for the coming period and how to achieve them
 				- Controlling: During operations, managers need to ensure that performance is on track towards the planned objectives, deviations should be identified and corrected as required
 				- Evaluating: After the performance period, managers need to understand whether performance was up to standard, lessons learned should be built into future plans
-id:: a6546aaf-40fa-4de7-848e-4261a517c557
+				  id:: a6546aaf-40fa-4de7-848e-4261a517c557
 		- Q3
 		  collapsed:: true
 			- [[Contribution margin]] analysis
-id:: b098b59e-9ab0-4d3d-8f81-79329ced1c42
+			  id:: b098b59e-9ab0-4d3d-8f81-79329ced1c42
 			- [[Sustainability]] creating business
-id:: 849368f0-370c-4058-80a8-32cf68207050
+			  id:: 849368f0-370c-4058-80a8-32cf68207050
 				- Angling products towards health conscious consumers would justify raising prices
-id:: 42da8155-3385-4dd7-9503-04f79a4a75fb
+				  id:: 42da8155-3385-4dd7-9503-04f79a4a75fb
 				- Reducing environmental impact would abate the need to relocate
-id:: 7113a5ea-e384-48a4-a363-3549e3165eb4
+				  id:: 7113a5ea-e384-48a4-a363-3549e3165eb4
 				- Sustainable practices could save costs
 				- More sustainable products would increase reputation, attracting new customers and increasing sales volume as a result
 			- [[Merchandising, Manufacturing and Service]] differences

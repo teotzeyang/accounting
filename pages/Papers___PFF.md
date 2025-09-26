@@ -5,8 +5,8 @@
 		  collapsed:: true
 			- Statement of [[Cash flows]]
 				- Indirect template in cheatsheet
-			- Current ratio = Current assets/Current liabilities
-			- Quick ratio = (Cash + Securities + Receivables)/Current liabilities
+			- Current ratio = Current assets/Current liabilities #Formula
+			- Quick ratio = (Cash + Securities + Receivables)/Current liabilities #Formula
 		- Q2
 		  collapsed:: true
 			- [[Foreign currency]] functional currency and journal entry
@@ -19,7 +19,7 @@
 					- Prior period error (error from past period discovered in the next)
 					- Omission is material (<15% of PBT)
 					- Correct retrospectively by restating
-					- Required to disclose the nature of the prior period error and the amount of the correction for each prior period presented, as well as the amount of the correction at the beginning of the earliest prior period presented.
+					- Required to disclose the nature of the prior period error and the amount of the correction for each prior period presented, as well as the amount of the correction at the beginning of the earliest prior period presented
 				- Change in useful life
 					- Change in accounting estimate
 					- Amend prospectively
@@ -31,10 +31,10 @@
 		- Q4
 		  collapsed:: true
 			- [[Leases]] journal entry
-				- Lease liability = Coupon * PVIFA (i = eff int, n = period)
+				- Lease liability = Coupon * PVIFA (i = eff int, n = period) #Formula
 			- [[Bonds]] journal entry
-				- Interest income = Interest rate * Purchase price
-				- Coupon = Coupon rate * Face value
+				- Interest income = Interest rate * Purchase price #Formula
+				- Coupon payment = Coupon rate * Face value #Formula
 			- [[SPL]]
 				- Template in cheatsheet
 			- Statement of [[Changes in equity]]
@@ -42,7 +42,6 @@
 	- [[PFF J18]]
 	  collapsed:: true
 		- Q1
-		  collapsed:: true
 			- Statement of [[Cash flows]]
 				- Indirect template in cheatsheet
 				- Direct method components
@@ -102,14 +101,21 @@
 					- Increase/Decrease retained earnings
 				- Error in capitalization
 					- Fact of error occurring and nature of error to be disclosed
+					  id:: 8d8c5184-3825-42bb-9515-739192a48f65
 					- Retrospective adjustment to be made
+					  id:: 4ee565be-56d4-4ea9-91a3-33326f0d8682
 		- Q2
 		  collapsed:: true
 			- [[Contract]] journal entry
+			  id:: 82fb8b97-b120-47c2-b0e9-58cff132e078
 				- Expected value method of revenue recognition
+				  id:: 1389036f-d15b-4e02-8f4c-707121376812
 			- [[Impairment]] indicators
+			  id:: 1ac48815-0bfd-4fb7-bd69-cd9e747476da
 				- Significant decline in market prices of assets beyond expectation
+				  id:: c737d665-188a-4d2c-b5bc-be29efecb48e
 				- Significant adverse effects on entity arising from changes in technology, market, economics or legal environment
+				  id:: 6e64657c-f263-4f63-ba03-adbeb2cb80b6
 				- Increase in market and discount rates that reduce values in use
 				- Carrying amount of asset more than market capitalization
 				- Evidence of obsolescence or physical damage
@@ -167,6 +173,7 @@
 		  collapsed:: true
 			- [[Financial statements]]
 				- To provide useful information on financial performance, financial position, and cash flows relevant to users for economic decision-making.
+				  id:: b1ab8dbb-3e5e-4b26-9d75-2f1231b9a7d3
 			- [[Conceptual framework]]
 				- Relevant information
 				- Faithful representation of economic phenomenon
@@ -247,7 +254,7 @@
 			- [[Leases]] journal entry
 			- [[Bonds]] journal entry
 				- If Par value (Face value) < Purchase price
-					- Face value - Purchase price = Unamortized premium
+					- Face value - Purchase price = Unamortized premium #Formula
 				- Issuance of bond journal entry
 					- Dr Bank, Cr Unamortized premium, Cr Bond payable
 				- Coupon payment journal entry

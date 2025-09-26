@@ -1,0 +1,1 @@
+- Items in statement of changes in equity #Cheatsheet/PFF

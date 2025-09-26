@@ -3,14 +3,14 @@ icon:: 💵
 - ## 📒📚️📄 A compilation of all the notes I've taken on accounting/auditing
 - ### Foundational papers
 	- ### PFF
-		- [[PFF topics]]
-		- [[PFF papers]]
+		- [[Topics/PFF]]
+		- [[Papers/PFF]]
 	- ### ASF
-		- [[ASF topics]] #WIP
-		- [[ASF papers]]
+		- [[Topics/ASF]] #WIP
+		- [[Papers/ASF]]
 	- ### ADF
-		- [[ADF topics]] #WIP
-		- [[ADF papers]]
+		- [[Topics/ADF]] #WIP
+		- [[Papers/ADF]]
 	- ### AFF
-		- [[AFF topics]] #WIP
-		- [[AFF papers]]
+		- [[Topics/AFF]] #WIP
+		- [[Papers/AFF]]

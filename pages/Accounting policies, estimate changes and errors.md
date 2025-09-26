@@ -1,0 +1,22 @@
+type:: [[SFRS(I)]] 
+description:: SFRS(I) 1-8 Accounting Policies, Changes in Accounting Estimates and Errors
+
+- ### Case studies
+	- Inappropriate recognition of revenue
+		- Restate amounts for prior period **retrospectively**
+		- Disclose nature of error and amount
+	- Omission of credit note
+		- Correct **retrospectively** by restating
+		- Prior period error (error from past period discovered in the next)
+		- Omission is material (<15% of PBT)
+		- Required to disclose the nature of the prior period error and the amount of the correction for each prior period presented, as well as the amount of the correction at the beginning of the earliest prior period presented
+	- Change in useful life
+		- Amend **prospectively**
+		- Change in accounting estimate
+	- Change of inventory accounting
+		- Change in accounting policy
+		- Nature of change and reason of change to be disclosed
+		- Increase/Decrease retained earnings
+	- Error in capitalization
+		- **Retrospective** adjustment to be made
+		- Fact of error occurring and nature of error to be disclosed
