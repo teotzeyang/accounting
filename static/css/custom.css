@@ -1,22 +1,22 @@
-/* Black Metal (Immortal) by metalelf0 (https://github.com/metalelf0) */
+/* Atelier Cave by Bram de Haan (http://atelierbramdehaan.nl) */
 
 :root {
-  --base00: #000000;
-  --base01: #121212;
-  --base02: #222222;
-  --base03: #333333;
-  --base04: #999999;
-  --base05: #c1c1c1;
-  --base06: #999999;
-  --base07: #c1c1c1;
-  --base08: #5f8787;
-  --base09: #aaaaaa;
-  --base0A: #556677;
-  --base0B: #7799bb;
-  --base0C: #aaaaaa;
-  --base0D: #888888;
-  --base0E: #999999;
-  --base0F: #444444;
+  --base00: #19171c;
+  --base01: #26232a;
+  --base02: #585260;
+  --base03: #655f6d;
+  --base04: #7e7887;
+  --base05: #8b8792;
+  --base06: #e2dfe7;
+  --base07: #efecf4;
+  --base08: #be4678;
+  --base09: #aa573c;
+  --base0A: #a06e3b;
+  --base0B: #2a9292;
+  --base0C: #398bc6;
+  --base0D: #576ddb;
+  --base0E: #955ae7;
+  --base0F: #bf40bf;
   --button-blue: var(--base0C);
   --button-gray-1: var(--base05);
   --button-gray-2: var(--base06);
