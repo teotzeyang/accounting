@@ -1,9 +1,12 @@
 ## 🤔 A compilation of all the notes I've taken on accounting/auditing
 - ### Foundational papers
-	- PFF
+	- ### PFF
 		- [[PFF topics]]
-	- ASF
+		- [[PFF papers]]
+	- ### ASF
 		- [[ASF topics]]
-	- ADF
+		- [[ASF papers]]
+	- ### ADF
 		- [[ADF topics]]
-	- [[AFF
+	- ### AFF
+		- [[AFF topics]]
