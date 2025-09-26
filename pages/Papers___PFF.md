@@ -40,6 +40,7 @@
 			- Statement of [[Changes in equity]]
 				- Template in cheatsheet
 	- [[PFF J18]]
+	  collapsed:: true
 		- Q1
 		  collapsed:: true
 			- Statement of [[Cash flows]]
@@ -75,6 +76,7 @@
 			- [[PPE]] and [[Investment property]] journal entry
 				- Subtract accumulated depreciation when reclassifying
 		- Q4
+		  collapsed:: true
 			- [[Contract]] revenue recognition and journal entry
 				- The first step is to ascertain that there is a legal contract
 				- The next step is to identify the performance obligations in the contract
@@ -88,9 +90,7 @@
 					- Use leaves carried forward
 				- If capital allowance -> DTL, if deductible -> DTA
 	- [[PFF J23]]
-	  collapsed:: true
 		- Q1
-		  collapsed:: true
 			- Statement of [[Cash flows]]
 				- Indirect template in cheatsheet
 			- [[Accounting policies, estimate changes and errors]] disclosures
@@ -104,7 +104,6 @@
 					- Retrospective adjustment to be made
 					  id:: 4ee565be-56d4-4ea9-91a3-33326f0d8682
 		- Q2
-		  collapsed:: true
 			- [[Contract]] journal entry
 			  id:: 82fb8b97-b120-47c2-b0e9-58cff132e078
 				- Expected value method of revenue recognition
