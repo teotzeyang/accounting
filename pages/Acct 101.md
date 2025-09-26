@@ -1,4 +1,4 @@
-## [[First time here?]]</ins>
+## [[First time here?]]
 - [[PFF]]
 - [[ASF]]
 - [[ADF]]
