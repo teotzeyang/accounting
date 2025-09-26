@@ -11,3 +11,4 @@
 	- Finally, revenue is recognized when the company satisfies a performance obligation
 	  logseq.order-list-type:: number
 - ### When are performance obligations satisfied?
+	-
