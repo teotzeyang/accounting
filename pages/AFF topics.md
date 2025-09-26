@@ -1,0 +1,8 @@
+- [[Related party disclosure]]
+- [[Intangible assets]]
+- [[Impairment]]
+- [[Contract]]
+- [[Foreign currency]]
+- [[Consolidated financial statements]]
+- [[Business combination]]
+- [[Non-current asset disposal]]

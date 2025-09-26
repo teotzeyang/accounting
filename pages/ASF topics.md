@@ -1,0 +1,52 @@
+- Regulatory frameworks
+	- Role of boards and audit committees
+- Laws and regulations
+	- [[Audit responsibilities]]
+	- How to deal with non-compliance
+- Practice management
+	- Code of professional conduct and ethics
+		- Money laundering guidelines
+		- Identify ethical issues and safeguards
+		- Course of action when discovering breaches
+	- Professional responsibility
+		- Responsibilities related to fraud and error
+		- [[Communication of deficiency]]
+	- [[Quality management]]
+		- Engagement quality review
+	- Appointment of auditors
+		- Considerations and procedures related to accepting/continuing engagements
+- Planning audit
+	- Audit planning
+		- Understanding financial reporting framework
+		- Analytical procedures
+		- [[Assertion]]
+	- Evaluation of internal controls
+		- Revenue, purchases, expenditure, PPE, inventory, payroll, and cash
+		- Tests of controls against misstatements
+	- Materiality
+		- Audit risks
+	- IT
+		- IT controls and effect on auditing
+- Performing audit
+	- Audit evidence
+		- Identifying appropriate evidence to support assertions
+		- [[Audit documentation]]
+	- [[Audit procedures]]
+		- [[Test of details]]
+		- Applying audit procedures for all transactions
+		- Explain risks concerning third-parties
+	- [[Expert engagement]]
+		- Circumstances where expert opinion is required
+		- Work to be done when expert is involved
+	- Evaluation and review
+		- Explain use of analytical procedures
+- Reporting
+	- [[Auditor's report]]
+		- Statutory audit report
+		- Determining key audit matters
+		- Proposed audit opinion
+	- Assurance other than audit
+		- Main service categories
+	- Other reports
+		- Professional accountant's report
+		- Negative assurance

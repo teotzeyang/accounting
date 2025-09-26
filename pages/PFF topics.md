@@ -1,0 +1,28 @@
+- Financial reporting framework
+	- [[Financial statements]]
+	- [[Conceptual framework]]
+	- [[Professional ethics]]
+- Elements of financial statments
+	- Assets
+		- [[PPE]]
+		- [[Inventory]]
+		- [[Investment property]]
+		- [[Intangible assets]]
+	- Liabilities
+		- [[Leases]]
+		- [[Contract]]
+		- [[Financial liabilities]]
+			- [[Bonds]]
+		- [[Income tax]]
+		- [[Provisions]]
+		- [[Contingent liabilities]]
+	- [[Impairment]]
+- Preparation of financial statements
+	- Statement of [[Comprehensive income]]/[[SPL]]
+	- Statement of [[Financial position]]
+	- Statement of [[Cash flows]]
+	- Statement of [[Changes in equity]]
+- Other standards
+	- [[Accounting policies, estimate changes and errors]]
+	- [[Events after reporting period]]
+	- [[Foreign currency]]

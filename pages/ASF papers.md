@@ -1,0 +1,222 @@
+### Completed
+	- [[ASF D20]]
+	  collapsed:: true
+		- Q1
+		  collapsed:: true
+			- [[Audit responsibilities]]: Management vs Auditor
+			  collapsed:: true
+				- [[Accounting policies, estimate changes and errors]]
+					- Management: To select accounting policies/estimates that are in accordance with [[SFRS(I)]]
+					- Auditor: To evaluate appropriateness/reasonableness of policies/estimates used
+				- Adjustment to correct omission of liability
+					- Management: To make the adjustment
+					- Auditor: To perform [[Audit procedures]] to confirm correct adjustment
+				- Disclosure of material [[Going concern]] uncertainty
+					- Management: To make a disclosure note of events/transactions that caused going concern uncertainty
+					- Auditor: To evaluate adequacy of disclosure
+				- Using [[Going concern]] basis
+					- Management: Assess ability to continue as a going concern -> Decide whether to use going concern basis
+					- Auditor: To evaluate appropriateness of use of going concern basis
+				- Assessing ability to continue as a [[Going concern]]
+					- Management: To assess ability, taking into account information at least 12 months from reporting date
+					- Auditor: To evaluate whether assessment includes relevant information
+				- Compliance with law/regulations that impact financial statements
+					- Management: To ensure operations, reported amounts, and disclosures are in accordance with provisions
+					- Auditor: To identify material misstatement due to non-compliance
+				- Material subsequent events considered as [[Adjusting event]]
+					- Management: To ensure events after date of financial statements are adjusted
+					- Auditor: To perform [[Audit procedures]] to obtain sufficient evidence that events were identified and appropriately adjusted
+				- Material subsequent events considered as non-[[Adjusting event]]
+					- Management: To ensure events after date of financial statements are disclosed
+					- Auditor: To perform [[Audit procedures]] to obtain sufficient evidence that events were identified and adequately disclosed
+				- [[Internal controls]]
+					- Management: To devise and maintain system of internal controls
+					- Auditor: To obtain understanding of internal controls and to design appropriate [[Audit procedures]]
+			- Examples of [[Accounting policies, estimate changes and errors]]
+			  collapsed:: true
+				- [[PPE]] - Building
+					- Policy: Measurement base of PPE (Cost)
+					- Estimate: Determination of useful life (Straight-line)
+				- [[Inventory]] - Finished goods
+					- Policy: Costing methods (FIFO)
+					- Estimate: Write down of inventory to their net-realizable value (NRV)
+		- Q2
+		  collapsed:: true
+			- Payroll and overtime related [[Audit procedures]]
+			  collapsed:: true
+				- Confirm correctness of CPF deduction
+					- Agree deduction rates in payroll to rates published by CPF
+					- [[Assertion]]: Accuracy
+				- Confirm crediting of wages
+					- Trace net wages of staff on payroll to direct bank transfer and bank statement
+					- [[Assertion]]: Completeness
+				- Confirm CPF contribution
+					- Trace CPF deduction and employer contribution in payroll to CPF payment records
+					- [[Assertion]]: Completeness
+				- Confirm correctness of basic salary
+					- Agree basic salary in payroll to employment contracts or pay revision letters
+					- [[Assertion]]: Accuracy
+				- Confirm inclusion of all staff on payroll
+					- Trace staff in personnel file to payroll
+					- [[Assertion]]: Completeness
+				- Confirm staff on payroll are bona fide
+					- Trace staff on payroll to personnel file
+					- [[Assertion]]: Occurence
+				- Confirm correct calculation of overtime wages
+					- Agree overtime hours in payroll to approved overtime claim forms and recalculate overtime wages
+					- [[Assertion]]: Accuracy
+				- Confirm internal control for approval of overtime is working effectively
+					- Review overtime claim forms to confirm that they have been approved
+					- [[Assertion]]: Occurence
+				- Confirm staff in direct bank transfer list are bona fide
+					- Trace staff on direct bank transfer list to payroll or employment contract
+					- [[Assertion]]: Occurence
+				- Confirm wages are correctly calculated
+					- Select staff on payroll and recalculate their net wages
+					- [[Assertion]]: Accuracy
+			- [[Communication of deficiency]]
+				- Shareholders
+					- Not communicated in audit report
+				- Management charged with governance
+					- Should be communicated to both if significant
+				- Contents
+					- Description
+					- Implications/Possible consequences
+					- Recommended improvements
+		- Q3
+		  collapsed:: true
+			- [[Quality management]] of audits in relation to:
+			  collapsed:: true
+				- Team assembly
+					- Team should have relevant industry experience especially with new clients -> Reduce detection risk
+					- Team should be familiar with firm audit methodology
+				- Task assignment
+					- Revenue is very material -> Revenue recognition of certain items (subscription services) is complex -> Assign to more experienced member
+					- Significant changes to [[PPE]] is material -> Areas of PPE audit that require judgement increases audit risk -> Assign to more experienced member
+					- Cash at bank & inventory lower risk of material misstatement -> Assign to less experienced member
+				- Audit planning
+					- Clear instructions should be given to associates/seniors by managers
+					- Clear time scheduling reduces the risk of missing deadlines
+				- Audit supervision
+					- Seniors should track and guide progress of associates
+					- Partners should review work done
+				- Review of work done
+					- Partner reviews manager reviews senior reviews associate
+			- [[Quality management]]: Review of prior audits
+			  collapsed:: true
+				- Purpose
+					- Evaluate the sufficiency and relevance of evidence gathered based on the adequacy of [[Audit procedures]]
+					- Determine extent of reliance that can be placed on prior work
+					- Design further [[Audit procedures]] to verify current year's opening balance
+				- If performed by another firm
+					- Add an "Other Matter" paragraph in the [[Auditor's report]]
+						- State that prior year's financial statements were audited by another firm
+						- Audit opinion expressed by previous auditor
+						- If applicable, state reason for modified opinion
+						- Date of report issued by previous auditor
+					- Approval to review working papers
+						- Required as client confidential information should not be released to third parties without specific approval unless professionally/legally obligated
+						- Approval from previous firm and client required
+						- Previous firm has the right to decline as they legally own their working papers
+	- [[ASF J20]]
+	  collapsed:: true
+		- Q2
+		  collapsed:: true
+			- [[Audit procedures]] for purchase of fixed asset
+				- Confirm purchase price
+					- Agree fixed asset register to invoice and/or agreement
+					- [[Assertion]]: Accuracy, Valuation and Allocation
+				- Appropriate useful life estimation
+					- Compare estimated useful life to industry averages
+					- [[Assertion]]: Accuracy, Valuation and Allocation
+				- Transaction details correctly recorded
+					- Trace contract/invoice details to fixed asset register
+					- [[Assertion]]: Completeness
+				- Depreciation charge correctly calculated
+					- Recalculation
+					- [[Assertion]]: Accuracy
+				- Fair value correctly recorded
+					- Agree fair value in valuer’s report to the fixed asset register
+					- [[Assertion]]: Accuracy, Valuation and Allocation
+				- Fair value gain correctly recorded
+					- Recalculate from net book value and agree fair value gain to the revaluation reserve in other comprehensive income
+					- [[Assertion]]: Accuracy
+			- [[Expert engagement]] assessment
+				- Competence: Has the necessary professional qualifications and license
+					- [[Audit procedures]]: Review their professional qualification by obtaining a written confirmation on their professional qualification from the professional body
+				- Capability: Has sufficient relevant professional experience in their field of expertise
+					- [[Audit procedures]]: Review similar work done in the past for previous clients
+				- Objectivity: Is independent of the company and management for whom the engagement is for
+		- Q3
+		  collapsed:: true
+			- Assorted [[Audit procedures]]
+				- Confirm existence of year end receivables
+					- Agree selected outstanding invoice balance to post year end cash book and bank statement
+					- [[Assertion]]: Existence
+				- Confirm trade receivables are recorded in correct accounting period
+					- Agree selected deposits in post year end bank statements to sales invoice and trade receivable ledgers
+					- [[Assertion]]: Completeness, Cut-off
+				- Confirm existence of PPE
+					- Sight selected PPE in the factory
+					- [[Assertion]]: Existence
+				- PPE details correctly recorded
+					- Sight PPE in the factory, note the fixed asset details, agree details to the fixed asset register
+					- [[Assertion]]: Completeness
+			- [[Audit documentation]] requirements
+			  collapsed:: true
+				- Working paper
+					- Preparer name
+					- Working paper date
+					- Working paper page numbers
+					- Working paper references
+				- Audit information
+					- Company name
+					- Financial year end of company
+					- Audit procedure objective
+						- Specific and refers to assertion being verified
+					- Audit procedure performed
+						- Specific and origin of samples
+					- Conclusion
+						- Outcome of performance and any detected exceptions
+			- Selection of samples for [[Test of details]]
+				- Sales orders: Confirm completeness of sales invoices in trade receivables ledger
+				- Trade receivables: Confirm occurrence of sales invoices in trade receivables ledger
+				- Sales invoices: Confirm sales invoices correctly recorded
+				- Goods dispatch note: Confirm goods delivered in trade receivables ledger
+- ### Incomplete
+	- [[ASF J21]]
+	  collapsed:: true
+		- Q3
+		- Q4
+	- [[ASF D21]]
+	  collapsed:: true
+		- Q1
+		- Q2
+		- Q3
+		- Q4
+	- [[ASF J22]]
+	  collapsed:: true
+		- Q1
+		- Q3
+		- Q4
+	- [[ASF D22]]
+	  collapsed:: true
+		- Q1
+		- Q2
+		- Q4
+	- [[ASF J23]]
+	  collapsed:: true
+		- Q2
+		- Q3
+		- Q4
+	- [[ASF D23]]
+	  collapsed:: true
+		- Q1
+		- Q2
+		- Q3
+		- Q4
+	- [[ASF J24]]
+	  collapsed:: true
+		- Q1
+		- Q2
+		- Q3

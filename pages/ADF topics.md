@@ -1,0 +1,35 @@
+- Accounting as a tool
+	- [[Primary responsibilities]]
+	- [[Integrated reporting]]
+	- [[Management accounting]]
+	- [[Throughput accounting]]
+	- [[Merchandising, Manufacturing and Service]]
+- Cost analysis
+	- [[Contribution margin]]
+	- [[Breakeven]]
+	- [[Relevant cost]]
+	- [[Variable costing]]
+	- [[Target costing]]
+	- [[Absorption costing]]
+- Performance analysis
+	- [[Budget]]
+	- [[Variance]]
+	- [[Standard cost]]
+	- [[Performance measures]]
+- Business [[Decision making]]
+	- Responsibility centres
+		- [[Cost centre]]
+		- [[Profit centre]]
+		- [[Investment centre]]
+		- [[Transfer pricing]]
+	- [[Quality, cost, time triangle]]
+- Strategic management
+	- Models
+		- [[Porter's generic strategies]]
+		- [[Porter's 5 forces]]
+		- [[Ansoff's growth matrix]]
+		- [[PESTLE]]
+	- [[Balanced scorecard]]
+	- [[Key performance indicators]]
+	- [[Residual income]]
+	- [[Sustainability]]
