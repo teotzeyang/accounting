@@ -21,3 +21,4 @@ icon:: 💵
 	- item 3
 	- item 4
 - [[Another one]]
+- [[New page]]
