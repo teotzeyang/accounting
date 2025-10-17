@@ -14,4 +14,4 @@ icon:: 💵
 	- ### AFF
 		- [[Topics/AFF]] #WIP
 		- [[Papers/AFF]]
-- test
+- testing
