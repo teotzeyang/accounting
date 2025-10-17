@@ -1,3 +1,4 @@
+public:: true
 icon:: 💵
 
 - ## 📒📚️📄 A compilation of all the notes I've taken on accounting/auditing
@@ -15,6 +16,10 @@ icon:: 💵
 		- [[Topics/AFF]] #WIP
 		- [[Papers/AFF]]
 - [[Test page]]
+<<<<<<< HEAD
 	- item 1
 	- item 2
 	- item 3
+=======
+- [[Another one]]
+>>>>>>> 78e2867 (commit)
