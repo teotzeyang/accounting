@@ -2,6 +2,7 @@ public:: true
 icon:: 💵
 
 - ## 📒📚️📄 A compilation of all the notes I've taken on accounting/auditing
+- We need to restrategize...
 - ### Foundational papers
 	- ### PFF
 		- [[Topics/PFF]]
