@@ -14,9 +14,13 @@ icon:: 💵
 		- [[Papers/ADF]]
 	- ### AFF
 		- [[Topics/AFF]] #WIP
+<<<<<<< HEAD
 		- [[Papers/AFF]]
 - [[Test page]]
 	- item 1
 	- item 2
 	- item 3
 - [[Another one]]
+=======
+		- [[Papers/AFF]]
+>>>>>>> a0a16e1 (saved)
